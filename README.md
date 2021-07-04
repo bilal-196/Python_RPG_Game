@@ -1,4 +1,4 @@
-# Python_RPG_Game
+# Python based Role Playing Command Line Game
 Text based role playing game which reads and writes information from a text file
 
 This program implements a text based RPG using Python's object oriented methodologies. It allows user to interact
