@@ -1,0 +1,42 @@
+Room
+Dark Tunnel; You are standing in a dark tunnel that is filled with muddy water upto your knees and poor ventilation is cuasing suffocation. Suddenly, you hear a sound. It seems some one is approaching you. After a while you see that there is a man dressed in a joker costumer standing in front of you with a little torch in his hand. You got scared as there is no sign of exiting the tunnel.;Gold Coins 
+Room
+Mysterious Land; You are in the middle of a mysterious land with alien looks. It is surrounded by lush green trees and it seems that no human being has been here for ages. Singing birds and roaring animals are the only sign of life. The trees, bushes and plants are also very strange. It is full of dangerous creaturs, particualry the family of snakes is a permanat resident of this land and they dont want any human being to intervene.;Antique Plates
+Room
+Valley of Death; You are standing on a narrow wooden bridge that joins the tops of two sky-high mountains. Under the bridge there is 10,000 ft steep depth on both the sides and it is certain if anyone falls down, there is no chance of survival. The good news is that if you could cross the bridge, you can have access to access to water of life, one sip of which is gurantee for endless life.;Golden Fruits
+Room
+Paradize Land; You are standing in front of a beautiful lake surrounded by a line of trees fully loaded with riped fruits. The birds are singing melodious songs and their sounds rasonating with the sounds of waves of water are making the overall environment wonderful. Its fresh look is blowing your mind away and you are tempted to move in. Though, there is no hurdle visible at the moment but you are conscious about any potential threats. You are in the midst of these thoughts when you see a gigantic creature coming towards you. It looks a giant dragon filled with anger and fire who has all the power to destroy any powerful enemy. As it is said offence is the best defence so you decide to attack it.;Lively roses
+Room
+Reward Land; You have now reached to the last part of your game. It was amazing seeing you going through encounters and collecting the valuable objects. Now it is the time to let you know about the outcome.; Treasures
+Superman
+Ninja Warrior
+Superman
+Quick Master
+Superman
+Tricky Woo
+Superman
+Solid Booster
+Weapons
+Sword
+Weapons
+Chain knife
+Weapons
+Chain Whip
+Weapons
+Arm Gauntlet
+Powers
+Long Jump
+Powers
+Tree Climbing
+Powers
+Super Speed
+Powers
+Enhanced strength
+Enemy
+Angry Ghost;Black Powder;Invisibility;10
+Enemy
+Super Snake;Venom;Disguise;10
+Enemy
+Swift Scorpion;Flamethrower;Thunderbolt;10
+Enemy
+Fiery Dragon;Mystic Blade;Extra Long Teeth;10
